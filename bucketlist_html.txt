@@ -1,0 +1,36 @@
+<html>
+<title>Bucket list</title>
+<head><center><b>MY BUCKET LIST FOR FUTURE</b></center></head>
+<body>
+
+<dl>
+<dt><mark>Important Wishes</mark></dt>
+<dl><i>To secure my carrier and family is the most important plan in my to do list</i></dl>
+</dl>
+
+<ol>
+<li>Get a secure job which satisfies myself</li>
+<ul>
+<li>Work for a reputed IT firm for one or two years to experience the IT infrastructures</li>
+<li>Prepare for net and to become a lecturer</li>
+</ul>
+<li>Fullfill my parent's wishes</li>
+<ul>
+<li>Look after my family</li>
+<li>Keep them always happy</li>
+</ul>
+
+</ol>
+
+<dl>
+<dt><mark>Travel plans</mark></dt>
+<dd><i>To explore the favourite places</i></dd>
+</dl>
+
+<ul type="square">
+<li>Visit atleast one of the 7 wonders</li>
+<li>Just go for a trip with friends freely</li>
+<li>Trip to himalaya</li>
+</ul>
+</body>
+</html>
